@@ -4,7 +4,7 @@ Python script to scrap data from the national Brazilian Franchising website and 
 - <img width="1342" alt="Screen Shot 2022-03-29 at 00 17 38" src="https://user-images.githubusercontent.com/18133417/160526319-0bf0f54b-04e1-4cc3-b81c-07239fadc07a.png">
 
 ## How to run
-Not ready yet
+You dont. Not ready yet
 
 ## How it works
 Not ready yet
